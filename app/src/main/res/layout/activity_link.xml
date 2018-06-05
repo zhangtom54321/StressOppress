@@ -10,7 +10,7 @@
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="145dp"
-        android:text="Happy Gilmore"
+        android:text="Jazz"
         android:layout_centerInParent="true"
         android:layout_marginLeft="200dp"
         android:textSize="20dp" />
